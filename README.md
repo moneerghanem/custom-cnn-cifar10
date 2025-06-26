@@ -79,5 +79,5 @@ jupyter notebook CIFAR10_CustomCNN.ipynb
 
 ## 👤 Author
 **Moneer Ghanem**  
-Computer Science Student  
+Computer Science & Computational Neuroscience Student  
 📫 [LinkedIn](https://www.linkedin.com/in/moneerghanem)  
