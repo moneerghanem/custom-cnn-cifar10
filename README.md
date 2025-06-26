@@ -20,7 +20,7 @@ This project implements a convolutional neural network designed **from scratch**
 |----------------|---------------|
 | Train Accuracy | 98.18%        |
 | Test Accuracy  | **91.81%**    |
-| Model Params   | ~X million    |
+| Model Params   | ~4.13 million    |
 | Architecture   | Custom deep CNN with skip connections |
 
 ---
@@ -62,7 +62,7 @@ _Train and test loss indicate strong generalization with minimal overfitting_
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/custom-cnn-cifar10.git
+git clone https://github.com/moneerghanem/custom-cnn-cifar10.git
 cd custom-cnn-cifar10
 
 # 2. (Optional) Create and activate virtual environment
