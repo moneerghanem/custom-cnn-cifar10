@@ -74,3 +74,10 @@ pip install -r requirements.txt
 
 # 4. Launch notebook
 jupyter notebook CIFAR10_CustomCNN.ipynb
+```
+
+
+## 👤 Author
+**Moneer Ghanem**  
+Computer Science Student  
+📫 [LinkedIn](https://www.linkedin.com/in/moneerghanem)  
